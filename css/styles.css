@@ -35,3 +35,6 @@ body {
 .navbar-dark {
     background-color: #512dab;
 }
+span {
+    padding: 5px;
+}
